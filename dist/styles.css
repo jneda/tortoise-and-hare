@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background: black;
+  color: linen;
+  font-family: monospace;
+}
+
+.title {
+  text-align: center;
+}
+
+.title h1 {
+  margin-bottom: 0.66rem;
+}
+
+.title p {
+  margin-block-start: 0.66rem;
+}
+
+canvas {
+  display: block;
+  margin: 2rem auto;
+}
